@@ -1,91 +1,67 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter Krol's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Peter Krol
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+• Maryland, United States
+• <a href="peter@peterkrol.com">peter@peterkrol.com</a>
+•
 </div>
 
+## Software Developer
 
-## Currently
+Passionate, full-stack software developer. I have been writing code since the age of 10 after becoming curious about how the technology around me worked.
+I strive to build systems that are easily maintainable, testable, and reusable.
+My passion is in the reinvigorated field of functional programming, but I also love to work with data structures and algorithms, and have an understaning of object-oriented programming.
 
-Standing on the shoulders of giants
+## Technical Skills
 
-### Specialized in
+- TypeScript and JavaScript (Node.js, React.js, Webpack, and browser)
+- MongoDB and PostgreSQL
+- Porting other languages to TypeScript
+- Efficient self-teaching, understanding new languages quickly
+- Both Windows and Unix-like operating systems
+- Proficient in the terminal
+- Vim and VSCode
+- Git (managing both single repositories and monorepos)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Personal Skills
 
+- Writing clearly and unerstandably
+- Working efficiently
+- Learning constantly
+- Thinking and speaking honestly
 
-### Research interests
+## Achievements
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Maintaining a functional-programming TypeScript prelude and library, <a href="https://github.com/principia-ts">principia.ts</a>, in order to more deeply understand the inticacies of category theory and the TypeScript type system, as well as implementation details and managing a software library. It features code forked from other TypeScript and JavaScript libraries, as well as Scala libraries, and my own features and improvements.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2017`
+**Howard Community College**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- General Studies
+- Left to pursue career opportunities
 
-- Sizar
+`2012-2016`
+**Secondary School**
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Occupation Summary
 
-- Fellow
+`2018-Present`
+__Little Market Cafe__
+- Managing their website as well as their online ordering catalog
 
+`2017-2018`
+**Starbucks**
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2015-2017`
+**United Electric Supply**
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: April 2021 -->
