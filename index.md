@@ -15,7 +15,7 @@ title: Peter Krol's CV
 
 Passionate full-stack software developer. I have been writing code since the age of 10 after becoming curious about how the technology around me worked.
 I strive to build systems that are easily maintainable, testable, and reusable.
-My passion is in the reinvigorated field of functional programming, but I also love to work with data structures and algorithms, and have an understaning of object-oriented programming.
+My passion is in the reinvigorated field of functional programming, but I also love to work with data structures and algorithms, and have an understanding of object-oriented programming.
 
 ## Technical Skills
 
