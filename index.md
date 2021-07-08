@@ -37,7 +37,7 @@ My passion is in the reinvigorated field of functional programming, but I also l
 
 ## Achievements
 
-Maintaining a functional-programming TypeScript prelude and library, <a href="https://github.com/principia-ts">principia.ts</a>, in order to more deeply understand the inticacies of category theory and the TypeScript type system, as well as implementation details and managing a software library. It features code forked from other TypeScript and JavaScript libraries, as well as Scala libraries, and my own features and improvements.
+Maintaining a functional-programming TypeScript prelude and library, <a href="https://github.com/0x706b/principia.ts">principia.ts</a>, in order to more deeply understand the inticacies of category theory and the TypeScript type system, as well as implementation details and managing a software library. It features code forked from other TypeScript and JavaScript libraries, as well as Scala libraries, and my own features and improvements.
 
 ## Education
 
